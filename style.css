@@ -1,0 +1,92 @@
+#footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  color: #6c757d;
+  font-size: 14px;
+  text-align: center;
+}
+
+#footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+#footer ul li {
+  display: inline;
+}
+
+#footer ul li a {
+  color: #6c757d;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+#footer p {
+  margin-bottom: 5px;
+}
+
+form fieldset {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  display: block;
+  width: 100%;
+}
+
+.jumbotron-home {
+  background-image: url("banner.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 6rem 0;
+}
+
+.jumbotron-home h1 {
+  font-size: 4rem;
+}
+
+.jumbotron-home p {
+  font-size: 1.5rem;
+}
+
+.jumbotron-home a.btn {
+  font-size: 1.25rem;
+}
+
+.jumbotron-contact {
+  background-image: url("banner.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 4rem 0;
+}
+
+.jumbotron-contact h1 {
+  font-size: 2.5rem;
+}
+
+.jumbotron-contact p {
+  font-size: 1rem;
+}
+
+.jumbotron-contact a.btn {
+  font-size: 0.875rem;
+  padding: 0.5rem 1rem;
+}
+
+.jumbotron-contact .col-auto {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+}
